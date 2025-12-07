@@ -1,2 +1,2 @@
-firstcode
-hi this is my first llm program
+transformers
+torch
